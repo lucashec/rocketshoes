@@ -28,8 +28,8 @@ Executar na raiz do projeto para subir o server.
 ### Telas
 
 <p align="center">
-    <img src="./screens/img1.png">
-    <img src="./screens/img2.png">
-    <img src="./screens/img3.png">
-    <img src="./screens/img4.png">
+    <img src="https://github.com/lucashec/rocketshoes/blob/master/screens/img1.png?raw=true">
+    <img src="https://github.com/lucashec/rocketshoes/blob/master/screens/img2.png?raw=true">
+    <img src="https://github.com/lucashec/rocketshoes/blob/master/screens/img3.png?raw=true">
+    <img src="https://github.com/lucashec/rocketshoes/blob/master/screens/img4.png?raw=true">
 </p>
